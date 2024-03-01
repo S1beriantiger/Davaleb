@@ -1,0 +1,13 @@
+*{font-size: xx-large;}
+#taboo {
+    width: 1000px; 
+    height: 200px; 
+    border: 10px; 
+    text-align: center;
+    border-collapse:collapse;
+    border: 1px solid; color: black; 
+}
+th {
+    height: 30;
+}
+tr {border: 1px solid; color: black;}
